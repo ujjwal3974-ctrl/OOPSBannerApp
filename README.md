@@ -35,8 +35,8 @@ Print "OOPS" in banner format while improving code step-by-step using better des
 ## ▶️ Run
 
 ```bash
-javac OOPSBannerAppUC8.java
-java OOPSBannerAppUC8
+javac UC8_OOPS_Banner_HashMap.java
+java UC8_OOPS_Banner_HashMap
 ```
 
 ---
